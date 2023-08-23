@@ -62,8 +62,8 @@ photo by Yin Peng
 <br/>
 
 ### Looking for a River 
-concept, choreographer, performer  
 08/2021, Shanghai, China
+concept, choreographer, performer  
 
 *The flowing river is the flowing reality  
 The reality runs through my body*  
@@ -78,8 +78,8 @@ How can a person become unified? Is the body a channel?
 <br/>
 
 ### Wash
-06/2021 solo version online live performance  
-08/2021 group version Shanghai Suoshi Theatre, China  
+06/2021, solo version online live performance  
+08/2021, group version Shanghai Suoshi Theatre, China  
 concept, director, choreographer, performer  
 
 *Whitening, Brainwashing, Heart Cleaning—Our World is Bright and Beautiful.*
@@ -101,7 +101,7 @@ concept, choreographer, performer
 <br/>
 
 ### 知行合一1.0 Zhi Xing He Yi 1.0 
-01/2020 Xiamen Cangjiang Theatre, China  
+01/2020, Xiamen Cangjiang Theatre, China  
 concept, choreographer, performer  
 ![](assets/img/zhixingheyi1.JPG)
 
@@ -113,7 +113,7 @@ concept, choreographer, performer
 # Short Dance Film
 
 ### 14 Days as an Island 
-08/2020 14-day Ripples Artist Residence Program, Beijing, China
+08/2020, 14-day Ripples Artist Residence Program, Beijing, China
 concept, choreographer, performer  
 
  <https://youtu.be/QGrIBp6D-Wo>
@@ -124,7 +124,7 @@ concept, choreographer, performer
 <br/> 
 
 ### This is How I... 
-06/2021 Hyper Youth Award, Beijing, China
+06/2021 Hyper Youth Award, Beijing, China  
 concept, choreographer, composer, performer 
 
 <https://youtu.be/hw6YEA80sGQ>
