@@ -10,7 +10,9 @@ B.A. Philosophy, Beijing Normal University, Beijing, China (09/2018-07/2022)
 
 # Performance
 [Portfolio](https://youtu.be/MHtyB4peW4c?si=f1CHmJusCN6KyYdn)
-  
+
+<video src='https://youtu.be/MHtyB4peW4c?si=f1CHmJusCN6KyYdn' width=180/>
+
   
 ### Yeee, Bubbles disappear
 05/2023, Trondheim, Norway  
