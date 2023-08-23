@@ -115,6 +115,7 @@ concept, choreographer, performer
 ### 14 Days as an Island 
 08/2020 14-day Ripples Artist Residence Program, Beijing, China
 concept, choreographer, performer  
+
  <https://youtu.be/QGrIBp6D-Wo>
  ![](assets/img/gudao.png)
 
@@ -134,18 +135,11 @@ concept, choreographer, composer, performer
 <br/> 
 
 # Music
-### From Dummy to ?  <https://soundcloud.com/cindy-cao-547754078/from-dummy-to>
 
-### 童年断裂带 Fracture Zone of Childhood
 对不起，不曾唱同一首歌 Sorry, Never Sang the Same Song <https://soundcloud.com/cindy-cao-547754078/sorry-never-sang-the-same-song>
 
 被浪踏 Stepped by the Waves <https://soundcloud.com/cindy-cao-547754078/stepped-by-the-waves>
 
 化水鱼 Fish Melting in the Water <https://soundcloud.com/cindy-cao-547754078/fish-melting-in-the-water>
 
-
-
-
-# Research
-# Writings
 
