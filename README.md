@@ -4,4 +4,5 @@ Xindi Cao is a Norway-based artist originally from Beijing, China, with backgrou
 ## Performance
 ## Research
 ### Writings
-![image xindi] (/assets/img/xindiphoto.jpeg)
+![image xindi](/assets/img/xindiphoto.jpeg)
+![image zhixingheyi](/assets/img/zhixingheyi.png)
