@@ -19,7 +19,7 @@ Portfolio
 ### Yeee, Bubbles disappear
 05/2023, Trondheim, Norway  
 a lecture-performance  
-in collaboration with Julio Maquilon
+in collaboration with Julio Maquilón
 
 I have a friend from Ecuador. The first time I visited his room, I noticed he had hung his country's national flag on the wall beside his bed. I was shocked, "I can’t fall asleep with my national flag in my bedroom."  
 ![](assets/img/bubble1.jpg)
@@ -32,7 +32,7 @@ photo by Usman
 
 ### Conversation
 04/2023, Multiplie Festival, Trondheim, Norway  
-in collaboration with Asieh Amini, within the project Folded Possibilities: Walk and Talk curated by Maryam Bagheri Nesami
+in collaboration with Asieh Amini as part of the project Folded Possibilities: Walk and Talk curated by Maryam Bagheri Nesami
 ![](assets/img/conversation.JPG)
 photo by Arne Hauge
 
@@ -62,7 +62,7 @@ photo by Yin Peng
 <br/>
 
 ### Looking for a River 
-08/2021, Shanghai, China
+08/2021, Shanghai, China  
 concept, choreographer, performer  
 
 *The flowing river is the flowing reality  
@@ -113,7 +113,7 @@ concept, choreographer, performer
 # Short Dance Film
 
 ### 14 Days as an Island 
-08/2020, 14-day Ripples Artist Residence Program, Beijing, China
+08/2020, 14-day Ripples Artist Residence Program, Beijing, China  
 concept, choreographer, performer  
 
  <https://youtu.be/QGrIBp6D-Wo>
