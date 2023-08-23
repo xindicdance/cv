@@ -127,25 +127,21 @@ concept, choreographer, performer
 concept, choreographer, composer, performer 
 
 <https://youtu.be/hw6YEA80sGQ>
-
+ ![](assets/img/howi.png)
 
 <br/> 
 <br/>
 <br/> 
 
 # Music
-### From Dummy to ? 
-<https://soundcloud.com/cindy-cao-547754078/from-dummy-to>
+### From Dummy to ?  <https://soundcloud.com/cindy-cao-547754078/from-dummy-to>
 
 ### 童年断裂带 Fracture Zone of Childhood
-对不起，不曾唱同一首歌 Sorry, Never Sang the Same Song
-<https://soundcloud.com/cindy-cao-547754078/sorry-never-sang-the-same-song>
+对不起，不曾唱同一首歌 Sorry, Never Sang the Same Song <https://soundcloud.com/cindy-cao-547754078/sorry-never-sang-the-same-song>
 
-被浪踏 Stepped by the Waves
-<https://soundcloud.com/cindy-cao-547754078/stepped-by-the-waves>
+被浪踏 Stepped by the Waves <https://soundcloud.com/cindy-cao-547754078/stepped-by-the-waves>
 
-化水鱼 Fish Melting in the Water
-<https://soundcloud.com/cindy-cao-547754078/fish-melting-in-the-water>
+化水鱼 Fish Melting in the Water <https://soundcloud.com/cindy-cao-547754078/fish-melting-in-the-water>
 
 
 
