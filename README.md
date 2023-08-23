@@ -3,9 +3,9 @@ Xindi Cao is a Norway-based artist originally from Beijing, China, with backgrou
 
 EDUCATION
 - Choreomundus – International Master in Dance Knowledge, Practice and Heritage, UCA, NTNU, UR, SZTE (09/2022-Present)  
-Areas of Interest: movement practices in everyday life, dance in contemporary China, dance and technology
-B.A. Philosophy, Beijing Normal University, Beijing, China (09/2018-07/2022)  
-- Areas of Interest: Aesthetics, Phenomenology of the Body, Gender, Sexuality and Performance 
+*Areas of Interest: movement practices in everyday life, dance in contemporary China, dance and technology*
+- B.A. Philosophy, Beijing Normal University, Beijing, China (09/2018-07/2022)  
+*Areas of Interest: Phenomenology of the Body*
 
 <br/>
 <br/>
@@ -114,7 +114,7 @@ concept, choreographer, performer
 
 ### 14 Days as an Island 
 08/2020 14-day Ripples Artist Residence Program, Beijing, China
-concept, choreographer, performer
+concept, choreographer, performer  
  <https://youtu.be/QGrIBp6D-Wo>
  ![](assets/img/gudao.png)
 
@@ -127,6 +127,7 @@ concept, choreographer, performer
 concept, choreographer, composer, performer 
 
 <https://youtu.be/hw6YEA80sGQ>
+
 
 <br/> 
 <br/>
