@@ -1,10 +1,32 @@
 # About
 Xindi Cao is a Norway-based artist originally from Beijing, China, with backgrounds in philosophy, anthropology of dance, and contemporary theatre. Her artistic practice revolves around activating the body in intercultural performance using a phenomenological approach in fieldwork. Currently, her research focuses on exploring the intersection of technology, cultural identity, and embodied experience. She works with software engineers dancing in VR, Chinese immigrant families engaging with chopsticks, and Covid-19 patients dancing in cabin hospitals. In her work, she delves into the delicate realm between art and activism, blurring the lines between theatre and real life. Compared with making art, she is more interested in everyday movements, the dance outside of the theatre and how to make a living outside of the artistic production mechanism.
+##### EDUCATION
+- Choreomundus – International Master in Dance Knowledge, Practice and Heritage, UCA, NTNU, UR, SZTE (09/2022-Present)
+Areas of Interest: movement practices in everyday life, dance in contemporary China, dance and technology
+B.A. Philosophy, Beijing Normal University, Beijing, China (09/2018-07/2022)
+- Areas of Interest: Aesthetics, Phenomenology of the Body, Gender, Sexuality and Performance 
+
 
 # Performance
 [Portfolio](https://youtu.be/MHtyB4peW4c?si=f1CHmJusCN6KyYdn)
 
-### Looking for a River (concept, choreographer, performer)
+### The Wheel
+10/2022, Trondheim, Norway
+Concept/Choreographer/Performer/Installation designer
+
+
+### 庆典 The Celebration
+07/2022, Shenzhen Greater Bay Dance Festival, China
+Concept/Choreographer/Performer/Multi-media designer
+
+
+Looking for a River New Media Centre of Shanghai Institute of Visual Arts (08/2021)
+
+
+### Looking for a River 
+concept, choreographer, performer
+08/2021, Shanghai Suoshi Theatre, China
+
 *The flowing river is the flowing reality
 The reality runs through my body*
 How do people’s thinking  connect with their bodies’ senses ?
@@ -13,18 +35,28 @@ How can a person become unified? Is the body a channel?
 ![](assets/img/river1.png)
 ![](assets/img/river2.png)
 
-### Wash (concept, director, choreographer, performer) 
+### Wash
+06/2021 solo version online live performance
+08/2021 group version Shanghai Suoshi Theatre, China
+concept, director, choreographer, performer
+
 *Whitening, Brainwashing, Heart Cleaning—Our World is Bright and Beautiful.*
 ![](assets/img/wash2.png)
 
-### 知行合一2.0 Zhi Xing He Yi 2.0 (concept, choreographer, performer)
+### 知行合一2.0 Zhi Xing He Yi 2.0 
+08/2021, Shanghai Suoshi Theatre, China
+concept, choreographer, performer
+
 “Zhi Xing He Yi” is a philosophical idea of Wang Yangming, who was a thinker in China Ming Dynasty. I intentionally  misused it as the title of this work to show the irony —- the unity of knowledge and action (translated literally).
 ![image zhixingheyi](/assets/img/zhixingheyi.png)
 
-### 知行合一1.0 Zhi Xing He Yi 1.0 (concept, choreographer, performer)
+### 知行合一1.0 Zhi Xing He Yi 1.0 
+01/2020 Xiamen Cangjiang Theatre, China
+concept, choreographer, performer
 ![](assets/img/zhixingheyi1.JPG)
 
-### 大众力学 Popular Mechanics (dancer, directed by Li Jianjun) 
+### 大众力学 Popular Mechanics 
+dancer, directed by Li Jianjun
 ![](assets/img/dazhonglixue.jpeg)
 
 
@@ -59,6 +91,7 @@ From Dummy to ?
 
 化水鱼 Fish Melting in the Water
 ▶️https://soundcloud.com/cindy-cao-547754078/fish-melting-in-the-water
+
 
 
 
