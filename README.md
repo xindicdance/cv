@@ -12,17 +12,19 @@ B.A. Philosophy, Beijing Normal University, Beijing, China (09/2018-07/2022)
 
 ### Yeee, Bubbles disappear
 05/2023, Trondheim, Norway  
+a lecture-performance  
 in collaboration with Julio Maquilon
 
 I have a friend from Ecuador. The first time I visited his room, I noticed he had hung his country's national flag on the wall beside his bed. I was shocked, "I can’t fall asleep with my national flag in my bedroom."  
-
+![](assets/img/bubble1.jpg)
+![](assets/img/bubble2.jpg)
 photo by Usman
 
 
 ### Conversation
 04/2023, Multiplie Festival, Trondheim, Norway  
 in collaboration with Asieh Amini, within the project Folded Possibilities: Walk and Talk curated by Maryam Bagheri Nesami
-
+![](assets/img/conversation.JPG)
 photo by Arne Hauge
 
 
@@ -81,14 +83,20 @@ dancer, directed by Li Jianjun
 ![](assets/img/dazhonglixue.jpeg)
 
 
-## Short Dance Film
+# Short Dance Film
 
-14 Days as an Island (concept, choreographer, performer)
+### 14 Days as an Island 
+08/2020 14-day Ripples Artist Residence Program, Beijing, China
+concept, choreographer, performer
  <https://youtu.be/QGrIBp6D-Wo>
  ![](assets/img/gudao.png)
 
-This is How I... (concept, choreographer, composer, performer) 
+### This is How I... 
+06/2021 Hyper Youth Award, Beijing, China
+concept, choreographer, composer, performer 
+
 <https://youtu.be/hw6YEA80sGQ>
+
 
 
 # Art as Method
@@ -97,21 +105,18 @@ Can we dance unconsciously
 
 
 # Music
-未发 Wei Fa 
-▶️
+### From Dummy to ? 
+<https://soundcloud.com/cindy-cao-547754078/from-dummy-to>
 
-From Dummy to ? 
-▶️https://soundcloud.com/cindy-cao-547754078/from-dummy-to
-
-[童年断裂带 Fracture Zone of Childhood]
+### 童年断裂带 Fracture Zone of Childhood
 对不起，不曾唱同一首歌 Sorry, Never Sang the Same Song
-▶️https://soundcloud.com/cindy-cao-547754078/sorry-never-sang-the-same-song
+<https://soundcloud.com/cindy-cao-547754078/sorry-never-sang-the-same-song>
 
 被浪踏 Stepped by the Waves
-▶️https://soundcloud.com/cindy-cao-547754078/stepped-by-the-waves
+<https://soundcloud.com/cindy-cao-547754078/stepped-by-the-waves>
 
 化水鱼 Fish Melting in the Water
-▶️https://soundcloud.com/cindy-cao-547754078/fish-melting-in-the-water
+<https://soundcloud.com/cindy-cao-547754078/fish-melting-in-the-water>
 
 
 
