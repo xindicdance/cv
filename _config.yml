@@ -2,4 +2,4 @@ title: Xindi Cao
 logo: /assets/img/xindiphoto.jpeg
 description: 当我们有一天不跳舞了，我们才可能真的开始跳舞       When we stop dancing, we truly start to dance.
 showdownloads: false
-remote_theme: alembic-jekyll-theme
+theme: alembic-jekyll-theme
